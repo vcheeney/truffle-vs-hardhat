@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
